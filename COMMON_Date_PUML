@@ -1,7 +1,0 @@
-!definelong COMMON_Date_DCL
-class Common::Date <<description>> {
-year : int
-month : int
-day : int
-}
-!enddefinelong
